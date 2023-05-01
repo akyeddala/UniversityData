@@ -1,4 +1,4 @@
-//written by Talish Garg
+
 import fetch from "node-fetch";
 import path from "path";
 
