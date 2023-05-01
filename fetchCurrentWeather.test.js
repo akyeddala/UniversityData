@@ -1,4 +1,4 @@
-//Added onto by Akshit Yeddala
+
 
 import assert from "node:assert";
 import { fetchCurrentWeather, makeWSearchURL } from "./fetchCurrentWeather.js";
