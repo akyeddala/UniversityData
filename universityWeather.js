@@ -59,7 +59,6 @@ export function fetchUniversityWeather(query) {
     .catch((err) => new Promise.reject(err)); //return a promise that rejects with an error if there is an error thrown
 }
 
-//Talish provided the basic outline for the code and worked until mapping the keys whereas Akshit worked on making a helper function for average temperatures and pushing the average values to the array and object and Benjamin worked on debugging/testing the code and catching the necessary errors.
 export function fetchUMassWeather() {
   return fetchUniversityWeather("University of Massachusetts");
 }
