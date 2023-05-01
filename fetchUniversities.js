@@ -1,4 +1,4 @@
-// Written by Benjamin Wong
+
 // Takes in a query string and returns a Promise that fulfills with an array of university names.
 // Utilizes the API found here: https://university-web-api.herokuapp.com/search?name=University+of+Massachusetts
 
