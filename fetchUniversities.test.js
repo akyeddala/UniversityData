@@ -3,7 +3,6 @@ import { fetchUniversities } from "./fetchUniversities.js";
 
 // node --experimental-vm-modules node_modules/jest/bin/jest.js ./src/fetchUniversities.test.js
 
-// Added upon by Benjamin Wong
 
 test("fetchUniversities follows type specification", () => {
   const promise = fetchUniversities("University of Massachusetts Amherst");
