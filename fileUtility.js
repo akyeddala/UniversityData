@@ -25,4 +25,3 @@ export function readFromJSONFile(path) {
     });
 }
 
-//Benjamin wrote the writeFile function by himself whereas Talish and Akshit worked on the readFromJSON file.
